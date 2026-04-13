@@ -2,7 +2,7 @@
 
 <img src="assets/architecture.gif" alt="MediVoice Architecture" width="100%"/>
 
-# 🩺 MediVoice — AI Voice Medical Intake Agent
+# 🩺 MediVoice - AI Voice Medical Intake Agent
 
 **A real-time voice AI agent that conducts clinical intake conversations, collects patient history, detects urgency, and hands off a structured summary to the care team — before the patient even walks in.**
 
@@ -10,7 +10,6 @@
 [![LiveKit](https://img.shields.io/badge/LiveKit-Agents-00A896?style=flat-square)](https://livekit.io)
 [![Supabase](https://img.shields.io/badge/Supabase-pgvector-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
 [![TruGen](https://img.shields.io/badge/TruGen-Huma--1_Avatar-7C3AED?style=flat-square)](https://trugen.ai)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 </div>
 
